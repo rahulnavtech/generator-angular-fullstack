@@ -242,7 +242,7 @@ export class Generator extends Base {
             checked: true
           }, {
             value: 'sequelize',
-            name: 'Sequelize (MySQL, SQLite, MariaDB, PostgreSQL)',
+            name: 'Sequelize (PostgreSQL)',
             checked: false
           }]
         }, {
